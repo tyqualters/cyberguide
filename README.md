@@ -1,3 +1,10 @@
+# Not Functional
+This project will be worked on in my leisure time. It may get finished, it may not.
+
+It is supposed to allow you (and some select individuals) to publish articles and guides in markdown format.
+
+If you want to contribute, push a PR.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
