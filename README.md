@@ -1,9 +1,9 @@
-# Not Functional
-This project will be worked on in my leisure time. It may get finished, it may not.
+# Project moved
+This project was moved to https://github.com/tyqualters/ty-qualters-website and is currently functional. 
 
-It is supposed to allow you (and some select individuals) to publish articles and guides in markdown format.
+Changes made: No longer an in-browser Markdown editor. No longer any database connection. The new project was developed with Nextra and deployed via Vercel.
 
-If you want to contribute, push a PR.
+You can view this website at: https://www.tyqualters.com
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
